@@ -1,5 +1,5 @@
 ---
-title: "main"
+title: "Wilford Woodruff Pages"
 output: html_document
 ---
 
@@ -11,10 +11,12 @@ Brigham Young University - Idaho's Data Science Program and The Research and Bus
 
 ## Where do I Start?
 
-Don't worry too much about trying to build something, just start messing around and look for something interesting. You can check out [this link]() to explore the archive of journals and letters. As you look at what he shares, maybe an idea will come to you!
+Don't worry too much about trying to build something, just start messing around and look for something interesting. You can check out [this link](https://shiny.byui.edu/connect/#/apps/9a557b43-e28b-44d2-a551-6be87738f6b2/access) to explore the archive of journals and letters. As you look at what he shares, maybe an idea will come to you!
 
 ### How Can I Build?
 Once you have an idea, check out our Github for the structure of people's projects. Go ahead and "clone" our *Sample Repository*, then start working. When you're ready, send us a request to add it to the collection!
 
 ### What have Others Made?
-[Here's a map Clara Broberg made for her Senior Project.](../app_map/clara_recreate.html)
+[Here's our sample web app, which can help you find ideas.](https://shiny.byui.edu/connect/#/apps/9a557b43-e28b-44d2-a551-6be87738f6b2/access)
+<br>
+[Here's a map Clara Broberg made for her Senior Project.](https://wilfordwoodruff.github.io/app_map/index.html)
