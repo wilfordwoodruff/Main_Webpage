@@ -3,10 +3,7 @@
 ## OUR MISSION
 Our mission, by 2027, is to digitally preserve and publish Wilford Woodruff’s eyewitness account of the Restoration of the Gospel of Jesus Christ from 1833 to 1898.
 Our purpose in making Wilford Woodruff’s faithful records universally accessible is to inspire all people, especially the rising generation, to study and increase their faith in Jesus Christ, understand and honor sacred temple covenants, and thereby receive the blessings of exaltation with their families.
-
-![](https://camo.githubusercontent.com/7715e2924867508ebab3ba50a0cecdb35719fe3fb7c5862ffcdb509275beaab0/68747470733a2f2f6279756964617461736369656e63652e6769746875622e696f2f696d616765732f696c6c757374726174696f6e732f6d6f756e7461696e2e737667)
-
-
+<br>
 Brigham Young University - Idaho's Data Science Program and The Research and Business Development Center in partnership with The Wilford Woodruff Papers project are on a journey to incorporate the tools of data science into the editorial process of bringing the writings of Wilford Woodruff out of obscurity. We leverage our Data Science Society, Senior Projects, and Data Science Consulting Class to meet this goal.
 
 
