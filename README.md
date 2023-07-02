@@ -12,14 +12,14 @@ Brigham Young University - Idaho's Data Science Program and The Research and Bus
 <table>
   <tr>
     <td>
-    <a href="https://wilfordwoodruff.github.io/app_map/index.html"><img src="Images/app_map.png" style="margin-bottom: 10px; margin-right: 10px;">
+    <a href="https://wilfordwoodruff.github.io/app_map/index.html"><img src="https://raw.githubusercontent.com/wilfordwoodruff/Main_Webpage/main/Images/app_map.png" style="margin-bottom: 10px; margin-right: 10px;">
     <br>Here's a map Clara Broberg made for her Senior Project.</a>
     </td>
     <td>
-      <a href="https://dr-iggs.shinyapps.io/Wilford-Woodruff-Exploration/"><img src="Images/app_explore.png" style="margin-bottom: 10px;">
+      <a href="https://dr-iggs.shinyapps.io/Wilford-Woodruff-Exploration/"><img src="https://raw.githubusercontent.com/wilfordwoodruff/Main_Webpage/main/Images/app_explore.png" style="margin-bottom: 10px;">
     <br>Here's our sample web app, which can help you find ideas.</a></td>
     <td>
-      <a href="https://woodruffquery.streamlit.app/"><img src="Images/app_scripture.png" style="margin-bottom: 10px;">
+      <a href="https://woodruffquery.streamlit.app/"><img src="https://raw.githubusercontent.com/wilfordwoodruff/Main_Webpage/main/Images/app_scripture.png" style="margin-bottom: 10px;">
     <br>Here's an App that finds scripture quotes in his writings.</a>
     </td>
   </tr>
